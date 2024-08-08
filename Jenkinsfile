@@ -55,8 +55,7 @@ parameters {
             }
 
             steps {
-
-                echo 'Deploying...'
+		echo 'Step not executed...'
 
             }
 
