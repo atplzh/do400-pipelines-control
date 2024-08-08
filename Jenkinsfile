@@ -34,7 +34,6 @@ pipeline {
 
     }
 
-stages {
 
         stage('Run Tests') {
 
@@ -64,6 +63,6 @@ stages {
 
         }
 
-    }
+ }   
 
 }
